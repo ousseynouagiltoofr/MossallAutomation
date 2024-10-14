@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4547","Valider une demande","chromium","Mon Oct 14 11:25:01 UTC 2024","passed","Mon Oct 14 11:25:05 UTC 2024","","demoFixture.spec.ts","",""
+"","3488","Ajout collaborateur","chromium","Mon Oct 14 11:24:57 UTC 2024","passed","Mon Oct 14 11:25:01 UTC 2024","","demoFixture.spec.ts","",""
+"","2572","test de connexion","chromium","Mon Oct 14 11:24:55 UTC 2024","passed","Mon Oct 14 11:24:57 UTC 2024","","connexion.spec.ts","",""
+"","2570","ajout collaborateur","chromium","Mon Oct 14 11:25:08 UTC 2024","passed","Mon Oct 14 11:25:11 UTC 2024","","mossallFixture.spec.ts","",""
+"","8774","create collaborator","chromium","Mon Oct 14 11:24:46 UTC 2024","passed","Mon Oct 14 11:24:54 UTC 2024","","connectF.spec.ts","",""
+"","3180","mossal login","chromium","Mon Oct 14 11:25:05 UTC 2024","passed","Mon Oct 14 11:25:08 UTC 2024","","login.spec.ts","",""
